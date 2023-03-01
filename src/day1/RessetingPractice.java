@@ -8,6 +8,7 @@ public class RessetingPractice {
     //Part 5 done
     //Part 6 done
     //Part 7 done
+    //Part 8 done
     //Mixed reset remove the commit from history but keep the local changes
     //Did part 4 par 5 and, I am done in one commit
 }
